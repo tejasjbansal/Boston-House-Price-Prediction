@@ -3,3 +3,4 @@ In this project, I have applied basic machine learning concepts on data collecte
 At the end we create a web app using Flask which is a python micro framework.
 
 ## Live Appliation :
+https://bostonhouseprediction.herokuapp.com/
